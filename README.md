@@ -1,2 +1,3 @@
 # Image_augmentation_implementations
-Cutmix &amp; Mixup augmentations
+Augmentasi citra(image augmentation) adalah teknik mengubah data yang ada untuk membuat beberapa data lagi untuk proses pelatihan model. 
+
