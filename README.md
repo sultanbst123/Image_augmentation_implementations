@@ -7,7 +7,10 @@ CutMix adalah teknik augmentasi data yang membahas masalah hilangnya informasi d
 Paper: <p><a href="https://arxiv.org/pdf/1905.04899"> CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features</a> [Yun et al., 2019]</p>
 
 ## MixUp Augmentation
-mixup adalah teknik augmentasi data Domain-agnostik, Teknik ini dinamai secara sistematis - kami benar-benar mencampurkan fitur dan label yang sesuai. Implementasi-bijaksana itu sederhana. Jaringan saraf rentan untuk menghafal label yang korup . mixup melonggarkan ini dengan menggabungkan fitur yang berbeda satu sama lain (hal yang sama juga terjadi pada label) sehingga jaringan tidak terlalu percaya diri tentang hubungan antara fitur dan labelnya.
-mixup secara khusus berguna ketika kami tidak yakin tentang memilih satu set transformasi augmentasi untuk set data tertentu, set data pencitraan medis, misalnya. mixup dapat diperluas ke berbagai modalitas data seperti visi komputer, pemrosesan bahasa alami, ucapan, dan sebagainya.
+Mixup adalah teknik augmentasi data Domain-agnostik, Teknik ini dinamai secara sistematis - kami benar-benar mencampurkan fitur dan label yang sesuai. Implementasi-bijaksana itu sederhana. Jaringan saraf rentan untuk menghafal label yang korup . mixup melonggarkan ini dengan menggabungkan fitur yang berbeda satu sama lain (hal yang sama juga terjadi pada label) sehingga jaringan tidak terlalu percaya diri tentang hubungan antara fitur dan labelnya.
+Mixup secara khusus berguna ketika kami tidak yakin tentang memilih satu set transformasi augmentasi untuk set data tertentu, set data pencitraan medis, misalnya. mixup dapat diperluas ke berbagai modalitas data seperti visi komputer, pemrosesan bahasa alami, ucapan, dan sebagainya.
 
 Paper: <p><a href="https://arxiv.org/pdf/1905.04899"> mixup: Beyond Empiris Risk Minimization</a> [Zhang et al., 2017]</p>
+
+## Referensi
+- Google
