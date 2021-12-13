@@ -2,7 +2,7 @@
 Augmentasi citra(image augmentation) adalah teknik mengubah data yang ada untuk membuat beberapa data lagi untuk proses pelatihan model.
 
 <p align="center">
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"> 
+ <img src="https://github.com/sultanbst123/Image_augmentation_implementations/blob/main/download.png"> 
 </p>
 
 ## CutMix Augmentation
