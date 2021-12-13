@@ -20,3 +20,4 @@ Paper: <p><a href="https://arxiv.org/pdf/1905.04899"> mixup: Beyond Empiris Risk
 
 ## Referensi
 - Google
+https://github.com/sultanbst123/Image_augmentation_implementations/blob/main/Mixup.png
